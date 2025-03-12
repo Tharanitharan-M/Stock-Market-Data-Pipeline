@@ -30,7 +30,7 @@ The **Stock Market Data Pipeline** is designed to process and analyze real-time 
 
 2. **Clone the Repository:**
 ```bash
- git clone <repository-link>
+ git clone https://github.com/Tharanitharan-M/Stock-Market-Data-Pipeline
  cd stock-market-data-pipeline
 ```
 
