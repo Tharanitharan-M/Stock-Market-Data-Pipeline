@@ -4,7 +4,7 @@
 The **Stock Market Data Pipeline** is designed to process and analyze real-time financial transactions using **Apache Kafka** and **AWS services**. The pipeline ensures efficient data ingestion, storage, and querying, facilitating real-time analytics for stock market data.
 
 ## Architecture Diagram
-![Architecture Diagram](architecture-diagram.jpg)
+![Architecture Diagram](Architecture.jpg)
 
 ## Features
 - **Real-Time Data Processing:** Utilizes Apache Kafka for streaming stock market data.
